@@ -4702,7 +4702,7 @@
         },
         {
           "abbreviation" : "ARMY",
-          "prestige" : "50",
+          "prestige" : "5",
           "hexColor" : "#D4BF91",
           "offCoordinator" : {
             "contractLength" : "2",
