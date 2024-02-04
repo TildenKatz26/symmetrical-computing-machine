@@ -61,7 +61,7 @@
         },
         {
           "abbreviation" : "FLA",
-          "prestige" : "85",
+          "prestige" : "75",
           "hexColor" : "#0021A5",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -102,16 +102,16 @@
             "contractLength" : "6",
             "startYear" : "2023",
             "age" : "42",
-            "ratOff" : "85",
-            "cumulativePrestige" : "25",
-            "ratDef" : "75",
-            "homeState" : "Florida",
-            "ratPot" : "88",
-            "hometown" : "Burley",
-            "ratTalent" : "85",
-            "baselinePrestige" : "85",
-            "name" : "Dan Mullen",
-            "contractYear" : "1"
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "59",
+            "homeState" : "Vermont",
+            "ratPot" : "56",
+            "hometown" : "Shoreham",
+            "ratTalent" : "60",
+            "baselinePrestige" : "25",
+            "name" : "Billy Napier",
+            "contractYear" : "5"
           },
           "name" : "Florida",
           "state" : "Florida"
@@ -1369,7 +1369,7 @@
             "hometown" : "Glen Riddle",
             "ratTalent" : "77",
             "baselinePrestige" : "70",
-            "name" : "Brian Kelly",
+            "name" : "Marcus Freeman(",
             "contractYear" : "1"
           },
           "name" : "Notre Dame",
@@ -6303,8 +6303,8 @@
             "hometown" : "Shoreham",
             "ratTalent" : "60",
             "baselinePrestige" : "25",
-            "name" : "Billy Napier",
-            "contractYear" : "5"
+            "name" : "Melvin Brown",
+            "contractYear" : "1"
           },
           "name" : "Louisiana Lafayette",
           "state" : "Louisiana"
